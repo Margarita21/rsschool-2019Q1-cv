@@ -1,1 +1,1 @@
-# https://github.com/Margarita21/rsschool-2019Q1-cv/blob/gh-pages/cv.md
+# https://github.com/Margarita21/rsschool-2019Q1-cv/blob/master/cv.md
