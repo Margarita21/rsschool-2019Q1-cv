@@ -1,1 +1,1 @@
-https://github.com/Margarita21/rsschool-2019Q1-cv/cv
+https://Margarita21.github.io/rsschool-2019Q1-cv/cv
