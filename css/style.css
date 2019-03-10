@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1020px;
+	margin: 0 auto; 
+}
+header{
+	height: 62px;
+	background: #323232;
+	padding-bottom: 0;
+}
+ul{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	line-height: 62px;
+}
+nav a{
+	color: white;
+	padding: 0 12px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+}
+nav a:hover{
+	color: #2eb398;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	flex-direction: row;
+}
+li a{
+	text-decoration: none;
+}
+.circle{
+	display: inline-block;
+	height: 3px;
+	width: 3px;
+	border-radius: 50%;
+	background: #484c5f;
+	line-height: 62px;
+	margin-bottom: 5px;
+}
+header:after{
+	content: "";
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 37px solid #323232;
+	position: absolute;
+	margin-left: 50%;
+	margin-top: -29px;
+    margin-left: 461px;
+}
+.image{
+	height: 775px;
+}
+.main_content{
+	height: 345px;
+	background: #2eb398;
+}
+.get_info{
+	height: 570px;
+	background: #323232;
+}
+.content{
+	width: 800px;
+	margin-left: 120px ;
+	display: flex;
+	padding-top: 70px;
+	font-family: 'Maven Pro', sans-serif;
+}
+.about_me{
+	width: 580px;
+}
+.photo{
+	padding-right: 20px;
+}
+h1{
+	font-size: 38px;
+	color: #d7fcf5;
+	margin-bottom: 12px;
+}
+.about_me h3{
+	font-size: 18px;
+	color: #20816d;
+	margin-bottom: 22px;
+}
+p{
+	color: #a1e1d3;
+	font-size: 12px;
+	line-height: 1.5;
+}
+.social img{
+	
+}
+.social{
+	margin-top: 31px;
+	margin-left: 400px;
+}
+.get_content{
+	margin-left:120px;
+	padding-top: 70px;
+	display: flex;
+}
+.form{
+	width: 580px; 
+}
+h2{
+	font-size: 30px;
+	color: #e0e0e0;
+}
+h3{
+	color: #a1a1a1;
+}
+input,textarea{
+	padding-left: 15px;
+	color: #868686 ;
+	width: 565px; 
+}
+input{
+	background: #454545;
+	height: 38px;
+	border: 0;
+	margin-bottom: 18px;
+}
+textarea{
+	background: #454545;
+	height: 140px;
+	border: 0;
+	padding-top: 9px;
+}
+button{
+	background: #2eb398;
+	height:37px;
+	width: 90px; 
+	border:0;
+	float: right;
+	margin-top: 10px;
+	color: #bdefe4;
+}
+.contact{
+	width: 180px;
+	margin: 75px 0 0 20px;
+}
+.contact p{
+	color: #bebebe;
+	font-size: 12px;
+}
+.find_me{
+	margin-top: 80px;
+}
+footer{
+	height: 40px;
+	background: #222222;
+}
+footer p{
+	line-height: 40px;
+	color: #343434;
+	margin-left: 40px;
+	font-family: 'Maven Pro', sans-serif;
+}
+
+
+
+
